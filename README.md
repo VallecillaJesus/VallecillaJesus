@@ -6,8 +6,8 @@
 
 
 
-🌱 I’m learning something new everyday 🙂
-
+### 🌱 I’m learning something new everyday 🙂
+<p style="font-size:30px">Thanks</p>
 
 
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
