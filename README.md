@@ -3,6 +3,13 @@
 
 
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/yes.jpg)
+
+
+
+🌱 I’m learning something new everyday 🙂
+
+
+
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
 
 <!--
