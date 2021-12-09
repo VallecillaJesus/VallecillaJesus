@@ -7,7 +7,7 @@
 
 
 ### 🌱 I’m learning something new everyday 🙂
-<p style="font-size:130px">Thanks</p>
+<p style="color:red">Thanks</p>
 
 
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
