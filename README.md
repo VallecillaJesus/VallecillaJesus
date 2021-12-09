@@ -5,13 +5,8 @@
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/yes.jpg)
 
 
-
+___________________________________________________________________________________________
 ### 🌱 I’m learning something new everyday 🙂
--
--
--
--
-
 ___________________________________________________________________________________________
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
 
