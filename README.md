@@ -11,12 +11,6 @@
 -
 -
 -
-
-
-
-<div style="color:red">Thanks</div>
-
-
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
 
 <!--
