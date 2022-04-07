@@ -2,6 +2,7 @@
 
 
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/yes.jpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vallecillajesus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ___________________________________________________________________________________________
 ### 🌱 I’m learning something new everyday 🙂
