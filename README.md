@@ -7,6 +7,8 @@
 
 ___________________________________________________________________________________________
 ### 🌱 I’m learning something new everyday 🙂
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallecillajesus)](https://github.com/anuraghazra/github-readme-stats)
 ___________________________________________________________________________________________
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
 
