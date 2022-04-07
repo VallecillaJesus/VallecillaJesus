@@ -1,14 +1,12 @@
 ### Hi there, I am Jesus 👋
 
 
-
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/yes.jpg)
-
 
 ___________________________________________________________________________________________
 ### 🌱 I’m learning something new everyday 🙂
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallecillajesus&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallecillajesus&hide=contribs,prs,issues&show_icons=true&theme=radical)
 ___________________________________________________________________________________________
 ![Image text](https://github.com/VallecillaJesus/VallecillaJesus/blob/main/goku.jpg)
 
